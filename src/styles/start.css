@@ -1,0 +1,55 @@
+html,
+body,
+div,
+span,
+p,
+em,
+img,
+center,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tr,
+th,
+td,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+
+@font-face {
+  font-family: "coder";
+  src: local("coder"), url(font.woff) format("woff");
+}
+
+body {
+  margin: 0;
+  font-family: "coder", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
