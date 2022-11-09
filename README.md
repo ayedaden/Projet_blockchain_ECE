@@ -1,8 +1,9 @@
-- Haoua Alkassoum; Aden Ayed ; Tharshika Chandirakumar
-- Ce projet permet de faire une transaction et de miner des NFTs que pour soit-même. de plus le nombre limite de NFT est de 300.
+*Membres du groupe: Haoua Alkassoum; Aden Ayed ; Tharshika Chandirakumar
 
-ATTENTION à FAIRE AVANT DE LANCER L'APPLICATION:
-- Changer dans le fichier public/config/config.json les variables "CONTRACT_ADDRESS" et "MARKETPLACE_LINK" avec vos propres variables.
+*But du site: Ce projet permet de faire une transaction et de miner des NFTs que pour soit-même. de plus le nombre limite de NFT est de 300.
+
+-> ATTENTION à FAIRE AVANT DE LANCER L'APPLICATION:
+   * Changer dans le fichier public/config/config.json les variables "CONTRACT_ADDRESS" et "MARKETPLACE_LINK" avec vos propres variables.
 
 -  * faire "npm run start" 
    * cliquer sur connect
@@ -13,3 +14,9 @@ ATTENTION à FAIRE AVANT DE LANCER L'APPLICATION:
    * on accepte la transaction
    * on a miné le nft
    * on va sur opensea en cliquant sur le bouton "opensea".
+
+
+*En quoi la blockchain est importante sur ce projet:
+- elle permet de sécuriser les transactions
+- seuls les membres autorisés au réseau peuvent y accéder
+   
