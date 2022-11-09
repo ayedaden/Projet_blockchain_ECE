@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD59906f9228f36dAd1b1eb2F14240a0C1A39B39e",
+  "SCAN_LINK": "https://goerli.etherscan.io",
+  "NETWORK": {
+    "NAME": "Réseau de test Goerli",
+    "SYMBOL": "GoerliETH",
+    "ID": 5
+  },
+  "NFT_NAME": "MY NFT COLLECTION",
+  "SYMBOL": "MYNFT",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OPENSEA",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/account",
+  "SHOW_BACKGROUND": true
+}
